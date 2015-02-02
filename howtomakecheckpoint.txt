@@ -1,0 +1,3 @@
+To make a checkpoint during coding,we can let each func returns a 0 or 1, indicating job done properly or not respectively.
+We can also use the println code to get the same result.
+
